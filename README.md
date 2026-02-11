@@ -16,8 +16,8 @@ This game showcases:
 
 ## Controls:-
 Key	Action:
-**SPACE** Make the bird jump
-**SPACE** (after Game Over)	Restart the game.
+1. **SPACE** Make the bird jump
+2. **SPACE** (after Game Over)	Restart the game.
 
 
 ## Game Mechanics:-
