@@ -2,10 +2,11 @@
 /**
  * @file README.md
  * @brief Flappy Bird Clone using Qt (C++)
+ * @author Prateek Narkhede
+
+ * @section  Description
  *
- * @section description Description
- *
- * This project is a simple Flappy Bird style 2D game developed using Qt and C++.
+ * This project is a simple Flappy Bird-style 2D game developed using Qt and C++.
  * It demonstrates core Qt concepts such as:
  * - QWidget custom rendering
  * - QPainter for graphics drawing
@@ -31,7 +32,7 @@
  *
  * @section controls Controls
  *
- * SPACE  -> Make bird jump
+ * SPACE  -> Make the bird jump
  * SPACE (after Game Over) -> Restart game
  *
  *
@@ -44,7 +45,7 @@
  * - Score increases when pipe exits screen
  * - Game ends if:
  *      - Bird hits top or bottom boundary
- *      - Bird collides with pipe
+ *      - Bird collides with the pipe
  *
  *
  * @section project_structure Project Structure
@@ -85,7 +86,7 @@
  *
  * @section learning_outcome Learning Outcome
  *
- * This project was created to strengthen understanding of:
+ * This project was created to strengthen the understanding of:
  * - Event-driven programming in Qt
  * - Real-time rendering
  * - Object-oriented design in C++
