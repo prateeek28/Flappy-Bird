@@ -19,13 +19,5 @@ Key	Action:
 1. **SPACE** Make the bird jump
 2. **SPACE** (after Game Over)	Restart the game.
 
-
-
-## Future Improvements:-
-1. Add sound effects
-2. Add background music
-3. Add difficulty levels
-
-
 ## Author:-
 Prateek Narkhede
