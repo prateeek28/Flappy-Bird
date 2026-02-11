@@ -20,11 +20,6 @@ Key	Action:
 2. **SPACE** (after Game Over)	Restart the game.
 
 
-## How to Build:-
-1. Install Qt (Qt Creator recommended)
-2. Open the .pro or CMakeLists.txt file in Qt Creator
-3. Build and Run
-
 
 ## Future Improvements:-
 1. Add sound effects
