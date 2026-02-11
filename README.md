@@ -11,8 +11,6 @@ This game showcases:
 3. Game loop using QTimer
 4. Keyboard event handling
 5. Basic collision detection
-6. The game includes gravity mechanics, pipe generation, collision detection, score tracking, and restart functionality.
-
 
 ## Controls:-
 Key	Action:
